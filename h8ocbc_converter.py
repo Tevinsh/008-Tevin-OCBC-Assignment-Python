@@ -1,4 +1,3 @@
-import math
 def convert_celcius_kelvin (fr,to,value):
     '''
     this function is to convert from celcius to kelvin
