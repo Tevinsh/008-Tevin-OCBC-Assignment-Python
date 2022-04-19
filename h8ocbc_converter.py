@@ -2,7 +2,7 @@ def convert_celcius_kelvin (fr,to,value):
     '''
     this function is to convert from celcius to kelvin
     :param fr is to declare from. it can be C or K
-    :param to is to declare to what you are want to convert. it can be C or K
+    :param to is to declare to what you want to convert. it can be C or K
     :param value is the value of fr it must integer or float or number
     '''
     if (fr == 'C' and to == 'K'):
